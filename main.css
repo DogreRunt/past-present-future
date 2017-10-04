@@ -7,14 +7,20 @@ section {
 
 }
 
+h1 {
+  font-size: 30px;
+  line-height: normal;
+  margin: auto;
+}
+
 h2 {
-  font-size: 20px;
+  font-size: 22px;
   line-height: normal;
   margin: auto;
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.6;
   margin: 20px;
 }
